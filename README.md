@@ -18,7 +18,7 @@
 
 1. 克隆此倉庫：
     ```sh
-    git clone https://github.com/yourusername/ad-password-notify.git
+    git clone https://github.com/yourusername/Windows-AD-Notification-Tool.git
     ```
 2. 安裝所需的 Python 套件：
     ```sh
